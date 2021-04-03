@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chhetry-hub
-- 👀 I’m interested in data Science and Embedded technology 
-- 🌱 I’m currently learning Artificial intelligence and Data Science 
-- 💞️ I’m looking to collaborate on data analyst 
+- 👀 I’m interested in data Science and Embedded technology. 
+- 🌱 I’m currently learning Artificial intelligence and Data Science. 
+- 💞️ I’m looking to collaborate on data analysis in Medical Institute. 
 - 📫 How to reach me rajenchhetry.square.bnc@gmail.com 
 
 <!---
