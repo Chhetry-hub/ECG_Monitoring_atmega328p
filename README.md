@@ -76,7 +76,7 @@ QRS interval= ≤ 0.12 s
 QT interval = < half RR interval (males < 0.40 s; females < 0.44 s)
 P wave amplitude (in lead II) = ≤ 3 mV (mm)
 P wave terminal negative deflection (in lead V1) = ≤ 1 mV (mm)
-Q wave = < 0.04 s (1 mm) 
+Q wave = < 0.04s
 
 APPLICATIONS AND FUTURE ADVANCEMENTS:-
 Applications:
@@ -89,10 +89,8 @@ By using more electrodes measurement can be more accurate.
 
 CONCLUSION:-
 The real time signal is captured and noise is filtered using the arduino uno and AD8232 sensor.
-The works regarding the processing of the heart signals are done. The segmentaion,Filteration,cancellation, classification and the detection of aplitudes of ECG signals are done. 
-It was found that the signals of the heart related diseases are all classified on the basis of the
-P-Q-R peaks in the ECG signal.
-   Data from ongoing large-scale genomic studies will also identify novel drug and genetic targets, leading to the development of new
+The works regarding the processing of the heart signals are done.The segmentaion,Filteration,cancellation, classification and the detection of aplitudes of ECG signals are done. 
+It was found that the signals of the heart related diseases are all classified on the basis of the P-Q-R peaks in the ECG signal. Data from ongoing large-scale genomic studies will also identify novel drug and genetic targets, leading to the development of new
 pharmacological and genetic approaches to the treatment and prevention of arrhythmias.
 
 THANK YOU:-
