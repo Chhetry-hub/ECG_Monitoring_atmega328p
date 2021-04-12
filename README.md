@@ -62,10 +62,6 @@ Arduino pin 10 -------- L0+
 Arduino Pin 11 -------- L0-
 Arduino Analog 1 (A1) ------- Output
 Arduino Gnd ----------- Gnd
-AD8232 Pins :-
-RA - Input 1
-LA - Input 2
-RL - Input 3
 
 ECG MODULE (AD8232) SPECIFICATIONS:-
 The AD8232 module breaks out nine connections from the IC that you can solder pins, wires, or other connectors to. SDN, LO+, LO-, OUTPUT, 3.3V,
@@ -73,14 +69,14 @@ GND provide essential pins for operating this monitor with an Arduino or other d
 
 ECG SIGNAL PARAMETER:-
 Table Normal ECG Parameters :
-Phase Duration Amplitude
-P Wave 0.06-0.11 <0.25 PR
-Interval 0.12-0.20 -
-PR Segment 0.08 -
-QRS Complex <0.12 0.8-1.2
-ST Segment 0.12 -
-QT Interval 0.36-0.44 -
-T Wave 0.16 <0.5
+Heart rate=(60 - 100) bpm
+Phase Duration Amplitude :
+PR interval= 0.12 - 0.20 s
+QRS interval= ≤ 0.12 s
+QT interval = < half RR interval (males < 0.40 s; females < 0.44 s)
+P wave amplitude (in lead II) = ≤ 3 mV (mm)
+P wave terminal negative deflection (in lead V1) = ≤ 1 mV (mm)
+Q wave = < 0.04 s (1 mm) 
 
 APPLICATIONS AND FUTURE ADVANCEMENTS:-
 Applications:
